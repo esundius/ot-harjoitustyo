@@ -1,0 +1,116 @@
+esundius@daphnis:~/Documents/ot2019/viikko1$ git log --stat | cat
+commit d48a99f728ce40234d1769351e75e77fc6a7eae0
+Author: Erik Sundius <erik.sundius@helsinki.fi>
+Date:   Tue Mar 19 22:58:55 2019 +0200
+
+    muutoksia
+
+ tiedostoja/file2             | 0
+ tiedostoja/{file1 => file22} | 0
+ 2 files changed, 0 insertions(+), 0 deletions(-)
+
+commit a24d624db408042def12e2dd964256f855d64dd9
+Author: Erik Sundius <erik.sundius@helsinki.fi>
+Date:   Tue Mar 19 22:57:21 2019 +0200
+
+    uusia tiedostoja
+
+ tiedostoja/file1 | 0
+ tiedostoja/file2 | 0
+ tiedostoja/file3 | 0
+ 3 files changed, 0 insertions(+), 0 deletions(-)
+
+commit a0a96fcca3c23006903d409c5a5b79fb3febb8a9
+Author: Erik Sundius <erik.sundius@helsinki.fi>
+Date:   Tue Mar 19 22:53:19 2019 +0200
+
+    muutettu eka ja kolmas
+
+ eka.txt    | 4 +---
+ kolmas.txt | 2 +-
+ 2 files changed, 2 insertions(+), 4 deletions(-)
+
+commit 7188613348d866804a6440c4f4afbf2813e58ea0
+Author: Erik Sundius <erik.sundius@helsinki.fi>
+Date:   Tue Mar 19 22:50:32 2019 +0200
+
+    muutettu nimeä tiedosto.txt -> eka.txt
+
+ tiedosto.txt => eka.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 14bfac958c9dc466974a67d9b02184c9a48753a9
+Author: Erik Sundius <erik.sundius@helsinki.fi>
+Date:   Tue Mar 19 22:49:45 2019 +0200
+
+    poistetu toinen.txt
+
+ toinen.txt | 1 -
+ 1 file changed, 1 deletion(-)
+
+commit bb54087c2db58625feb2227ff05c84da9090c0e1
+Author: Erik Sundius <erik.sundius@helsinki.fi>
+Date:   Tue Mar 19 22:48:22 2019 +0200
+
+    muutettu ja lisätty tekstiä
+
+ tiedosto.txt | 22 ++++++++++++++++++++--
+ 1 file changed, 20 insertions(+), 2 deletions(-)
+
+commit 978e1b5be9747616168776215afb04ca28ffd7ec
+Author: Erik Sundius <erik.sundius@helsinki.fi>
+Date:   Tue Mar 19 22:47:22 2019 +0200
+
+    lisätty tekstiä tiedostoon
+
+ tiedosto.txt | 21 +++++++++++++++++++++
+ 1 file changed, 21 insertions(+)
+
+commit ee49ee51b6657da649f47df3c6073dfa27ad4d1d
+Author: Erik Sundius <erik.sundius@helsinki.fi>
+Date:   Tue Mar 19 22:40:47 2019 +0200
+
+    directory stuff added
+
+ stuff/gadget | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit aeb13f8a96d6a8805f5042fa1324df7393a71d90
+Author: Erik Sundius <erik.sundius@helsinki.fi>
+Date:   Tue Mar 19 22:39:58 2019 +0200
+
+    muutettu toinen ja kolmas
+
+ kolmas.txt | 1 +
+ toinen.txt | 1 +
+ 2 files changed, 2 insertions(+)
+
+commit 626082eab1bc3e58c09651eb508799ac4c194079
+Author: Erik Sundius <erik.sundius@helsinki.fi>
+Date:   Tue Mar 19 22:38:44 2019 +0200
+
+    tiedosto kolmas.txt lisätty
+
+ kolmas.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 4880ea927d220a8ba49cd671e0e4a67d5a73bfa7
+Author: Erik Sundius <erik.sundius@helsinki.fi>
+Date:   Tue Mar 19 22:34:13 2019 +0200
+
+    muutos ja lisäys
+
+ tiedosto.txt | 1 +
+ toinen.txt   | 0
+ 2 files changed, 1 insertion(+)
+
+commit ce2fc164137e0d3ee01c02551211153f4a8fe30a
+Author: Erik Sundius <erik.sundius@helsinki.fi>
+Date:   Tue Mar 19 22:32:36 2019 +0200
+
+    tiedosto.txt luotu
+
+ tiedosto.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+esundius@daphnis:~/Documents/ot2019/viikko1$ 
+
