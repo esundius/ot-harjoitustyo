@@ -34,6 +34,8 @@ public class Kassapaate {
     public boolean syoEdullisesti(Maksukortti kortti) {
         if (kortti.saldo() >= 240) {
             kortti.otaRahaa(240);
+            // korjattu: kassan rahamäärä ei kasvatettu aiemmin
+            this.kassassaRahaa += 240;
             this.edulliset++;
             return true;
         } else {
@@ -44,6 +46,8 @@ public class Kassapaate {
     public boolean syoMaukkaasti(Maksukortti kortti) {
         if (kortti.saldo() >= 400) {
             kortti.otaRahaa(400);
+            // korjattu: kassan rahamäärä ei kasvatettu aiemmin
+            this.kassassaRahaa += 400;
             this.maukkaat++;
             return true;
         } else {
