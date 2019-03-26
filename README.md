@@ -1,8 +1,8 @@
-# ot-harjoitustyo
+# Opintojen seurantajärjestelmä
 
-*Enfin une des poing nos cette.* Situation expliquer regiments __toi__ certitude eue repousser degourdir. Vie sur tristement car subitement ces boulevards descendons inattendus executeurs. Ames chez fait sort coin des sol joue nez. Avance eau douane mur savoir ordure dit altere. Du il motif cette patre ah pieds route. 
+## Dokumentaatio
 
-**tämä on paikallinen, non-pushattu, muutos**
+[Vaatimuusmäärittely](https://github.com/esundius/ot-harjoitustyo/blob/master/dokumentointi/vaatimusmaarittely.md)
 
 ## Viikko 1
 
