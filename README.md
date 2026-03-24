@@ -9,3 +9,7 @@ Suunnitteilla **elokuvatietokanta**, johon voi lisätä (elokuvien lisäksi) elo
 ## Laskarit
 
 Tässä [linkki](/laskarit/) laskari-kansioon.
+
+## Vaatimusmäärittely
+
+[Vaatimusmäärittely](/dokumentaatio/vaatimusmaarittely.md)
