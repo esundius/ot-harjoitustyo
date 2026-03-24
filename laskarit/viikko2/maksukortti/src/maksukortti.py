@@ -30,3 +30,5 @@ class Maksukortti:
 
         return "Kortilla on rahaa {:0.2f} euroa".format(saldo_euroissa)
 
+    def saldo_euroina(self):
+        return self.saldo / 100
